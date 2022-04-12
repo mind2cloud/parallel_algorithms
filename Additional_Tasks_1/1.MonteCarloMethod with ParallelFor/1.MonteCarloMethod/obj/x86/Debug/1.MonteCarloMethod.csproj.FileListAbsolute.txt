@@ -1,0 +1,35 @@
+/Users/RomanK/Desktop/1.MonteCarloMethod/1.MonteCarloMethod/bin/Debug/1.MonteCarloMethod.exe
+/Users/RomanK/Desktop/1.MonteCarloMethod/1.MonteCarloMethod/bin/Debug/1.MonteCarloMethod.pdb
+/Users/RomanK/Desktop/1.MonteCarloMethod/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/1.MonteCarloMethod/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.exe
+/Users/RomanK/Desktop/1.MonteCarloMethod/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.pdb
+/Users/RomanK/Documents/Рома К/1 Studying/10 Параллельные алгоритмы/HW/1.MonteCarloMethod/1.MonteCarloMethod/bin/Debug/1.MonteCarloMethod.exe
+/Users/RomanK/Documents/Рома К/1 Studying/10 Параллельные алгоритмы/HW/1.MonteCarloMethod/1.MonteCarloMethod/bin/Debug/1.MonteCarloMethod.pdb
+/Users/RomanK/Documents/Рома К/1 Studying/10 Параллельные алгоритмы/HW/1.MonteCarloMethod/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.csproj.CoreCompileInputs.cache
+/Users/RomanK/Documents/Рома К/1 Studying/10 Параллельные алгоритмы/HW/1.MonteCarloMethod/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.exe
+/Users/RomanK/Documents/Рома К/1 Studying/10 Параллельные алгоритмы/HW/1.MonteCarloMethod/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.pdb
+/Users/RomanK/Desktop/HW/1.MonteCarloMethod/1.MonteCarloMethod/bin/Debug/1.MonteCarloMethod.exe
+/Users/RomanK/Desktop/HW/1.MonteCarloMethod/1.MonteCarloMethod/bin/Debug/1.MonteCarloMethod.pdb
+/Users/RomanK/Desktop/HW/1.MonteCarloMethod/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/HW/1.MonteCarloMethod/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.exe
+/Users/RomanK/Desktop/HW/1.MonteCarloMethod/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.pdb
+/Users/RomanK/Documents/Рома К/1 Studying/3 Параллельные алгоритмы/HW/1.1.MonteCarloMethod/1.MonteCarloMethod/bin/Debug/1.MonteCarloMethod.exe
+/Users/RomanK/Documents/Рома К/1 Studying/3 Параллельные алгоритмы/HW/1.1.MonteCarloMethod/1.MonteCarloMethod/bin/Debug/1.MonteCarloMethod.pdb
+/Users/RomanK/Documents/Рома К/1 Studying/3 Параллельные алгоритмы/HW/1.1.MonteCarloMethod/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.csproj.CoreCompileInputs.cache
+/Users/RomanK/Documents/Рома К/1 Studying/3 Параллельные алгоритмы/HW/1.1.MonteCarloMethod/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.exe
+/Users/RomanK/Documents/Рома К/1 Studying/3 Параллельные алгоритмы/HW/1.1.MonteCarloMethod/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.pdb
+/Users/RomanK/Desktop/1.1.MonteCarloMethod/1.MonteCarloMethod/bin/Debug/1.MonteCarloMethod.exe
+/Users/RomanK/Desktop/1.1.MonteCarloMethod/1.MonteCarloMethod/bin/Debug/1.MonteCarloMethod.pdb
+/Users/RomanK/Desktop/1.1.MonteCarloMethod/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/1.1.MonteCarloMethod/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.exe
+/Users/RomanK/Desktop/1.1.MonteCarloMethod/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.pdb
+/Users/RomanK/Desktop/Допзадачи_1/1.MonteCarloMethod with ParallelFor/1.MonteCarloMethod/bin/Debug/1.MonteCarloMethod.exe
+/Users/RomanK/Desktop/Допзадачи_1/1.MonteCarloMethod with ParallelFor/1.MonteCarloMethod/bin/Debug/1.MonteCarloMethod.pdb
+/Users/RomanK/Desktop/Допзадачи_1/1.MonteCarloMethod with ParallelFor/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/Допзадачи_1/1.MonteCarloMethod with ParallelFor/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.exe
+/Users/RomanK/Desktop/Допзадачи_1/1.MonteCarloMethod with ParallelFor/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.pdb
+/Users/RomanK/Desktop/1.MonteCarloMethod with ParallelFor/1.MonteCarloMethod/bin/Debug/1.MonteCarloMethod.exe
+/Users/RomanK/Desktop/1.MonteCarloMethod with ParallelFor/1.MonteCarloMethod/bin/Debug/1.MonteCarloMethod.pdb
+/Users/RomanK/Desktop/1.MonteCarloMethod with ParallelFor/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/1.MonteCarloMethod with ParallelFor/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.exe
+/Users/RomanK/Desktop/1.MonteCarloMethod with ParallelFor/1.MonteCarloMethod/obj/x86/Debug/1.MonteCarloMethod.pdb

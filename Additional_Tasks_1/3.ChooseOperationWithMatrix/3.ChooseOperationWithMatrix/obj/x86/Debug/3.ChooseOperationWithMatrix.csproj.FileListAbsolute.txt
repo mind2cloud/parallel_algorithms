@@ -1,0 +1,5 @@
+/Users/RomanK/Desktop/3.ChooseOperationWithMatrix/3.ChooseOperationWithMatrix/bin/Debug/3.ChooseOperationWithMatrix.exe
+/Users/RomanK/Desktop/3.ChooseOperationWithMatrix/3.ChooseOperationWithMatrix/bin/Debug/3.ChooseOperationWithMatrix.pdb
+/Users/RomanK/Desktop/3.ChooseOperationWithMatrix/3.ChooseOperationWithMatrix/obj/x86/Debug/3.ChooseOperationWithMatrix.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/3.ChooseOperationWithMatrix/3.ChooseOperationWithMatrix/obj/x86/Debug/3.ChooseOperationWithMatrix.exe
+/Users/RomanK/Desktop/3.ChooseOperationWithMatrix/3.ChooseOperationWithMatrix/obj/x86/Debug/3.ChooseOperationWithMatrix.pdb

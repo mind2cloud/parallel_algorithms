@@ -1,0 +1,6 @@
+/Users/RomanK/Desktop/2.MultiplyMatrixWithThreads/2.MultiplyMatrixWithThreads/bin/Debug/2.MultiplyMatrixWithThreads.exe
+/Users/RomanK/Desktop/2.MultiplyMatrixWithThreads/2.MultiplyMatrixWithThreads/bin/Debug/2.MultiplyMatrixWithThreads.pdb
+/Users/RomanK/Desktop/2.MultiplyMatrixWithThreads/2.MultiplyMatrixWithThreads/obj/x86/Debug/2.MultiplyMatrixWithThreads.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/2.MultiplyMatrixWithThreads/2.MultiplyMatrixWithThreads/obj/x86/Debug/2.MultiplyMatrixWithThreads.exe
+/Users/RomanK/Desktop/2.MultiplyMatrixWithThreads/2.MultiplyMatrixWithThreads/obj/x86/Debug/2.MultiplyMatrixWithThreads.pdb
+/Users/RomanK/Desktop/2.MultiplyMatrixWithThreads/2.MultiplyMatrixWithThreads/obj/x86/Debug/2.MultiplyMatrixWithThreads.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+/Users/RomanK/Desktop/5.CalculateMatrixDeterminate/5.CalculateMatrixDeterminate/bin/Debug/5.CalculateMatrixDeterminate.exe
+/Users/RomanK/Desktop/5.CalculateMatrixDeterminate/5.CalculateMatrixDeterminate/bin/Debug/5.CalculateMatrixDeterminate.pdb
+/Users/RomanK/Desktop/5.CalculateMatrixDeterminate/5.CalculateMatrixDeterminate/obj/x86/Debug/5.CalculateMatrixDeterminate.csprojResolveAssemblyReference.cache
+/Users/RomanK/Desktop/5.CalculateMatrixDeterminate/5.CalculateMatrixDeterminate/obj/x86/Debug/5.CalculateMatrixDeterminate.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/5.CalculateMatrixDeterminate/5.CalculateMatrixDeterminate/obj/x86/Debug/5.CalculateMatrixDeterminate.exe
+/Users/RomanK/Desktop/5.CalculateMatrixDeterminate/5.CalculateMatrixDeterminate/obj/x86/Debug/5.CalculateMatrixDeterminate.pdb

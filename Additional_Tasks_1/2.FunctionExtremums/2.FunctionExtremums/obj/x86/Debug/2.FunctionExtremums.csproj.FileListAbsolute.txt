@@ -1,0 +1,5 @@
+/Users/RomanK/Desktop/2.FunctionExtremums/2.FunctionExtremums/bin/Debug/2.FunctionExtremums.exe
+/Users/RomanK/Desktop/2.FunctionExtremums/2.FunctionExtremums/bin/Debug/2.FunctionExtremums.pdb
+/Users/RomanK/Desktop/2.FunctionExtremums/2.FunctionExtremums/obj/x86/Debug/2.FunctionExtremums.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/2.FunctionExtremums/2.FunctionExtremums/obj/x86/Debug/2.FunctionExtremums.exe
+/Users/RomanK/Desktop/2.FunctionExtremums/2.FunctionExtremums/obj/x86/Debug/2.FunctionExtremums.pdb

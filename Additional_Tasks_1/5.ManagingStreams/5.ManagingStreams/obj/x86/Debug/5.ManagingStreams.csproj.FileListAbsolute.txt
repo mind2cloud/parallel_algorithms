@@ -1,0 +1,11 @@
+/Users/RomanK/Desktop/5.ManagingStreams/5.ManagingStreams/bin/Debug/5.ManagingStreams.exe
+/Users/RomanK/Desktop/5.ManagingStreams/5.ManagingStreams/bin/Debug/5.ManagingStreams.pdb
+/Users/RomanK/Desktop/5.ManagingStreams/5.ManagingStreams/obj/x86/Debug/5.ManagingStreams.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/5.ManagingStreams/5.ManagingStreams/obj/x86/Debug/5.ManagingStreams.exe
+/Users/RomanK/Desktop/5.ManagingStreams/5.ManagingStreams/obj/x86/Debug/5.ManagingStreams.pdb
+/Users/RomanK/Desktop/Допзадачи_1/5.ManagingStreams/5.ManagingStreams/bin/Debug/5.ManagingStreams.exe
+/Users/RomanK/Desktop/Допзадачи_1/5.ManagingStreams/5.ManagingStreams/bin/Debug/5.ManagingStreams.pdb
+/Users/RomanK/Desktop/Допзадачи_1/5.ManagingStreams/5.ManagingStreams/obj/x86/Debug/5.ManagingStreams.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/Допзадачи_1/5.ManagingStreams/5.ManagingStreams/obj/x86/Debug/5.ManagingStreams.exe
+/Users/RomanK/Desktop/Допзадачи_1/5.ManagingStreams/5.ManagingStreams/obj/x86/Debug/5.ManagingStreams.pdb
+/Users/RomanK/Desktop/5.ManagingStreams/5.ManagingStreams/obj/x86/Debug/5.ManagingStreams.csprojResolveAssemblyReference.cache

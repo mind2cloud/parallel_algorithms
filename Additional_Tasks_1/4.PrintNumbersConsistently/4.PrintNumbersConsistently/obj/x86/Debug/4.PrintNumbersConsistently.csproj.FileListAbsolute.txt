@@ -1,0 +1,10 @@
+/Users/RomanK/Desktop/Допзадачи_1/4.PrintNumbersConsistently/4.PrintNumbersConsistently/bin/Debug/4.PrintNumbersConsistently.exe
+/Users/RomanK/Desktop/Допзадачи_1/4.PrintNumbersConsistently/4.PrintNumbersConsistently/bin/Debug/4.PrintNumbersConsistently.pdb
+/Users/RomanK/Desktop/Допзадачи_1/4.PrintNumbersConsistently/4.PrintNumbersConsistently/obj/x86/Debug/4.PrintNumbersConsistently.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/Допзадачи_1/4.PrintNumbersConsistently/4.PrintNumbersConsistently/obj/x86/Debug/4.PrintNumbersConsistently.exe
+/Users/RomanK/Desktop/Допзадачи_1/4.PrintNumbersConsistently/4.PrintNumbersConsistently/obj/x86/Debug/4.PrintNumbersConsistently.pdb
+/Users/RomanK/Desktop/4.PrintNumbersConsistently/4.PrintNumbersConsistently/bin/Debug/4.PrintNumbersConsistently.exe
+/Users/RomanK/Desktop/4.PrintNumbersConsistently/4.PrintNumbersConsistently/bin/Debug/4.PrintNumbersConsistently.pdb
+/Users/RomanK/Desktop/4.PrintNumbersConsistently/4.PrintNumbersConsistently/obj/x86/Debug/4.PrintNumbersConsistently.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/4.PrintNumbersConsistently/4.PrintNumbersConsistently/obj/x86/Debug/4.PrintNumbersConsistently.exe
+/Users/RomanK/Desktop/4.PrintNumbersConsistently/4.PrintNumbersConsistently/obj/x86/Debug/4.PrintNumbersConsistently.pdb

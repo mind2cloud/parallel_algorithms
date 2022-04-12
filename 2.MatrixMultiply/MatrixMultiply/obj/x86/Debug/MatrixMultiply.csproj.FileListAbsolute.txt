@@ -1,0 +1,15 @@
+/Users/RomanK/Desktop/MatrixMultiply/MatrixMultiply/bin/Debug/MatrixMultiply.exe
+/Users/RomanK/Desktop/MatrixMultiply/MatrixMultiply/bin/Debug/MatrixMultiply.pdb
+/Users/RomanK/Desktop/MatrixMultiply/MatrixMultiply/obj/x86/Debug/MatrixMultiply.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/MatrixMultiply/MatrixMultiply/obj/x86/Debug/MatrixMultiply.exe
+/Users/RomanK/Desktop/MatrixMultiply/MatrixMultiply/obj/x86/Debug/MatrixMultiply.pdb
+/Users/RomanK/Documents/Рома К/1 Studying/3 Параллельные алгоритмы/HW/2MatrixMultiply/MatrixMultiply/bin/Debug/MatrixMultiply.exe
+/Users/RomanK/Documents/Рома К/1 Studying/3 Параллельные алгоритмы/HW/2MatrixMultiply/MatrixMultiply/bin/Debug/MatrixMultiply.pdb
+/Users/RomanK/Documents/Рома К/1 Studying/3 Параллельные алгоритмы/HW/2MatrixMultiply/MatrixMultiply/obj/x86/Debug/MatrixMultiply.csproj.CoreCompileInputs.cache
+/Users/RomanK/Documents/Рома К/1 Studying/3 Параллельные алгоритмы/HW/2MatrixMultiply/MatrixMultiply/obj/x86/Debug/MatrixMultiply.exe
+/Users/RomanK/Documents/Рома К/1 Studying/3 Параллельные алгоритмы/HW/2MatrixMultiply/MatrixMultiply/obj/x86/Debug/MatrixMultiply.pdb
+/Users/RomanK/Desktop/2MatrixMultiply/MatrixMultiply/bin/Debug/MatrixMultiply.exe
+/Users/RomanK/Desktop/2MatrixMultiply/MatrixMultiply/bin/Debug/MatrixMultiply.pdb
+/Users/RomanK/Desktop/2MatrixMultiply/MatrixMultiply/obj/x86/Debug/MatrixMultiply.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/2MatrixMultiply/MatrixMultiply/obj/x86/Debug/MatrixMultiply.exe
+/Users/RomanK/Desktop/2MatrixMultiply/MatrixMultiply/obj/x86/Debug/MatrixMultiply.pdb

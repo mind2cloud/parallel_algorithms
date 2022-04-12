@@ -1,0 +1,52 @@
+#include "stdafx.h"
+#include "omp.h"
+#include <iostream>
+#include <cstdlib>
+#include "windows.h"
+
+
+void thrCostumer(omp_lock_t &lock, int &num) {
+	Sleep(150 * omp_get_thread_num());
+#pragma omp critical                                                  //Google it. Критическая секция, выполняется только одним потоком в каждый момент времени
+	{
+		std::cout << "Client No" << omp_get_thread_num() << std::endl;//Выведем номер клиента
+	}
+	omp_set_lock(&lock);//Залочим общую для всех потоков переменную
+	num--;              //Поменяем перепенную
+	omp_unset_lock(&lock);//Разлочим переменную
+}
+
+
+void thrMaster(int &num, omp_lock_t &lock) {
+	while (true){                                //Бесконечный цикл
+		if (num <= 0) {                          //Если клинеты кончились,
+#pragma omp critical                             //то только мастер может написать в консоль, что
+			{
+				std::cout << "Done" << omp_get_thread_num() << std::endl;
+			}
+			break;
+		}
+	}
+	std::cout <<"Remaining clients:" << num << std::endl;//Осталось клиентов
+}
+
+int main() {
+	omp_lock_t lock;				//Locker для всех операций с очередью клиентов
+	omp_init_lock(&lock);			//Инициализация локера
+	omp_set_nested(true);			//Разрешаем вложенный параллелизм дяля верности
+	int num = 7;					//Задаем количество клиентов
+#pragma omp parallel sections num_threads(2)		//Дальше идут две секции
+	{
+#pragma omp section									//Первая, вызывает мастера
+		{
+			thrMaster(num,lock);
+		}
+#pragma omp section									//Вторая, создает потоки клиентов
+		{
+#pragma omp parallel num_threads(num)				//Директива, создающая параллельные нити внутри параллельной нити
+			{
+				thrCostumer(lock,num);				//Клиента.
+			}
+		}
+	}
+}

@@ -1,0 +1,15 @@
+/Users/RomanK/Desktop/HW/IntegralTrapezeCalculation/IntegralTrapezeCalculation/bin/Debug/IntegralTrapezeCalculation.exe
+/Users/RomanK/Desktop/HW/IntegralTrapezeCalculation/IntegralTrapezeCalculation/bin/Debug/IntegralTrapezeCalculation.pdb
+/Users/RomanK/Desktop/HW/IntegralTrapezeCalculation/IntegralTrapezeCalculation/obj/x86/Debug/IntegralTrapezeCalculation.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/HW/IntegralTrapezeCalculation/IntegralTrapezeCalculation/obj/x86/Debug/IntegralTrapezeCalculation.exe
+/Users/RomanK/Desktop/HW/IntegralTrapezeCalculation/IntegralTrapezeCalculation/obj/x86/Debug/IntegralTrapezeCalculation.pdb
+/Users/RomanK/Desktop/IntegralTrapezeCalculation/IntegralTrapezeCalculation/obj/x86/Debug/IntegralTrapezeCalculation.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/IntegralTrapezeCalculation/IntegralTrapezeCalculation/obj/x86/Debug/IntegralTrapezeCalculation.exe
+/Users/RomanK/Desktop/IntegralTrapezeCalculation/IntegralTrapezeCalculation/obj/x86/Debug/IntegralTrapezeCalculation.pdb
+/Users/RomanK/Desktop/IntegralTrapezeCalculation/IntegralTrapezeCalculation/bin/Debug/IntegralTrapezeCalculation.exe
+/Users/RomanK/Desktop/IntegralTrapezeCalculation/IntegralTrapezeCalculation/bin/Debug/IntegralTrapezeCalculation.pdb
+/Users/RomanK/Documents/Рома К/1 Studying/3 Параллельные алгоритмы/HW/IntegralTrapezeCalculation/IntegralTrapezeCalculation/bin/Debug/IntegralTrapezeCalculation.exe
+/Users/RomanK/Documents/Рома К/1 Studying/3 Параллельные алгоритмы/HW/IntegralTrapezeCalculation/IntegralTrapezeCalculation/bin/Debug/IntegralTrapezeCalculation.pdb
+/Users/RomanK/Documents/Рома К/1 Studying/3 Параллельные алгоритмы/HW/IntegralTrapezeCalculation/IntegralTrapezeCalculation/obj/x86/Debug/IntegralTrapezeCalculation.csproj.CoreCompileInputs.cache
+/Users/RomanK/Documents/Рома К/1 Studying/3 Параллельные алгоритмы/HW/IntegralTrapezeCalculation/IntegralTrapezeCalculation/obj/x86/Debug/IntegralTrapezeCalculation.exe
+/Users/RomanK/Documents/Рома К/1 Studying/3 Параллельные алгоритмы/HW/IntegralTrapezeCalculation/IntegralTrapezeCalculation/obj/x86/Debug/IntegralTrapezeCalculation.pdb
